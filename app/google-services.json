@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "508626870100",
+    "firebase_url": "https://vestuvinisprojektas.firebaseio.com",
+    "project_id": "vestuvinisprojektas",
+    "storage_bucket": "vestuvinisprojektas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508626870100:android:557e38c3374f95cf",
+        "android_client_info": {
+          "package_name": "com.example.aleksas.vestuvinisprojektas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508626870100-l8najo9gjj49mkkvgnafmm5r0ti71amn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aleksas.vestuvinisprojektas",
+            "certificate_hash": "7df16e6d09431456c7aa2f8e87ee73f4caac3492"
+          }
+        },
+        {
+          "client_id": "508626870100-cevr2oh7ok1lkom5abe7dru3tu2mfk0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn2wfc3zaZ5XdlYvSfWKkT8h_KINdy9cY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508626870100-cevr2oh7ok1lkom5abe7dru3tu2mfk0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
